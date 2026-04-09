@@ -1,0 +1,41 @@
+1. Koliko mjerenja (automobila) je dostupno u datasetu?
+
+6699
+
+2. Kakav je tip pojedinog stupca u dataframeu?
+
+name           string   
+year           int  
+selling_price  float
+km_driven      int 
+fuel           string    
+seller_type    string   
+transmission   string    
+owner          string    
+mileage        float
+engine         int 
+max_power      float
+seats          int 
+
+3. Koji automobil ima najveću cijenu, a koji najmanju?
+
+najveća cijena: BMW X7 xDrive 30d DPE 
+najmanja cijena: maruti 800 ac
+
+4. Koliko automobila je proizvedeno 2012. godine?
+
+575 
+
+5. Koji automobil je prešao najviše kilometara, a koji najmanje?
+
+najviše: maruti wagon r lxi minor
+najmanje: maruti eeco 5
+
+6. Koliko najčešće automobili imaju sjedala?
+
+5 sjedala
+
+7. Kolika je prosječna prijeđena kilometraža za automobile s dizel motorom, a koliko za automobile s benzinskim motorom?
+
+diesel: 88,039.97km
+petrol: 54,101.88km
